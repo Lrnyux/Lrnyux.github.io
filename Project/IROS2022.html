@@ -2,25 +2,24 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision</title>
+	<title>Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	<!-- Meta tags for Zotero grab citation -->
-	<meta name="citation_title" content="Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision">
-	<meta name="citation_author" content="Wang, Jian">
-	<meta name="citation_author" content="Liu, Lingjie">
-	<meta name="citation_author" content="Xu, Weipeng">
-	<meta name="citation_author" content="Sarkar, Kripasindhu">
-	<meta name="citation_author" content="Luvizon, Diogo">
-	<meta name="citation_author" content="Theobalt, Christian">
+	<meta name="citation_title" content="Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization">
+	<meta name="citation_author" content="Liu, Yuxuan">
+	<meta name="citation_author" content="Yang, Jianxin">
+	<meta name="citation_author" content="Gu, Xiao">
+	<meta name="citation_author" content="Guo, Yao">
+	<meta name="citation_author" content="Yang, Guang-Zhong">
 	<meta name="citation_publication_date" content="2022">
-	<meta name="citation_conference_title" content="CVPR">
-	<meta name="keywords" content="egocentric, 3D, motion capture, monocular">
-	<meta name="citation_pdf_url" content="https://arxiv.org/abs/2201.07929">
+	<meta name="citation_conference_title" content="IROS">
+	<meta name="keywords" content="egocentric, 3D pose estimation, social behavior">
+	<meta name="citation_pdf_url" content="[pdf]">
 
 	<meta name="robots" content="index,follow">
-	<meta name="description" content="We present a new egocentric pose estimation method, which can be trained on the new dataset with weak external supervision. Specifically, we first generate pseudo labels for the EgoPW dataset with a spatio-temporal optimization method by incorporating the external-view supervision. The pseudo labels are then used to train an egocentric pose estimation network. To facilitate the network training, we propose a novel learning strategy to supervise the egocentric features with the high-quality features extracted by a pretrained external-view pose estimation model.">
-	<link rel="author" href="https://people.mpi-inf.mpg.de/~jianwang/"/>
+	<meta name="description" content="We propose Ego+X, an egocentric vision based system for 3D canonical pose estimation and human-centric social interaction characterization. Our system is composed of two head-mounted egocentric cameras, where one is faced downwards and the other looks outwards.">
+	<link rel="author" href="https://sjtulyx.github.io/"/>
 
 	<!-- Fonts and stuff -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,800italic,400,700,800' rel='stylesheet' type='text/css'>
@@ -49,23 +48,20 @@
 	<div id="content">
 		<div id="content-inner">
 			<div class="section logos"  style="text-align:center">
-				<a href="http://www.mpi-inf.mpg.de/" target="_blank"><img src="images/mpii-logo.png" height="55"></a>
-				<a href="http://gvv.mpi-inf.mpg.de/" target="_blank"><img src="images/gvv-logo.png" height="55"></a>
-                <a href="https://saarland-informatics-campus.de/" target="_blank"><img src="images/sic-logo.png" height="55"></a>
-                <a href="https://research.fb.com/category/augmented-reality-virtual-reality/" target="_blank"><img src="images/frl_blue.png" height="55"></a>
+				<a href="https://imr.sjtu.edu.cn/" target="_blank"><img src="picture/imr_logo.jpg" height="55"></a>
+				<a href="https://bme.sjtu.edu.cn/" target="_blank"><img src="picture/bme_logo.jpg" height="55"></a>             
 			</div>
 
 			<div class="section head">
 			
-				<h1>Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision</h1>
+				<h1>Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization</h1>
 
 				<div class="authors">
-					<a href="https://people.mpi-inf.mpg.de/~jianwang/" target="_blank">Jian Wang</a><sup>1</sup>&#160;&#160;
-					<a href="https://lingjie0206.github.io/" target="_blank">Lingjie Liu</a><sup>1</sup>&#160;&#160;
-					<a href="https://sites.google.com/view/xuweipeng" target="_blank">Weipeng Xu</a><sup>2</sup>&#160;&#160; 
-					<a href="https://people.mpi-inf.mpg.de/~ksarkar/" target="_blank">Kripasindhu Sarkar</a><sup>1</sup>&#160;&#160; 
-					<a href="https://dluvizon.github.io/" target="_blank">Diogo Luvizon</a><sup>1</sup>&#160;&#160; 
-					<a href="http://www.mpi-inf.mpg.de/~theobalt/" target="_blank">Christian Theobalt</a><sup>1</sup>
+					<a href="https://people.mpi-inf.mpg.de/~jianwang/" target="_blank">Yuxuan Liu</a><sup>1</sup>&#160;&#160;
+					<a href="https://lingjie0206.github.io/" target="_blank">Jianxin Yang</a><sup>1</sup>&#160;&#160;
+					<a href="https://sites.google.com/view/xuweipeng" target="_blank">Xiao Gu</a><sup>2</sup>&#160;&#160; 
+					<a href="https://people.mpi-inf.mpg.de/~ksarkar/" target="_blank">Yao Guo</a><sup>1</sup>&#160;&#160; 
+					<a href="https://dluvizon.github.io/" target="_blank">Guang-Zhong Yang</a><sup>1</sup>&#160;&#160; 
 				</div>
 
 				<div class="affiliations">
