@@ -57,36 +57,32 @@
 				<h1>Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization</h1>
 
 				<div class="authors">
-					<a href="https://people.mpi-inf.mpg.de/~jianwang/" target="_blank">Yuxuan Liu</a><sup>1</sup>&#160;&#160;
-					<a href="https://lingjie0206.github.io/" target="_blank">Jianxin Yang</a><sup>1</sup>&#160;&#160;
-					<a href="https://sites.google.com/view/xuweipeng" target="_blank">Xiao Gu</a><sup>2</sup>&#160;&#160; 
-					<a href="https://people.mpi-inf.mpg.de/~ksarkar/" target="_blank">Yao Guo</a><sup>1</sup>&#160;&#160; 
-					<a href="https://dluvizon.github.io/" target="_blank">Guang-Zhong Yang</a><sup>1</sup>&#160;&#160; 
+					<a href="https://sjtulyx.github.io/Project/IROS2022.html" target="_blank">Yuxuan Liu</a><sup>1</sup>&#160;&#160;
+					<a href="https://sjtulyx.github.io/Project/IROS2022.html" target="_blank">Jianxin Yang</a><sup>1</sup>&#160;&#160;
+					<a href="https://sjtulyx.github.io/Project/IROS2022.html" target="_blank">Xiao Gu</a><sup>2</sup>&#160;&#160; 
+					<a href="https://sjtulyx.github.io/Project/IROS2022.html" target="_blank">Yao Guo</a><sup>1</sup>&#160;&#160; 
+					<a href="https://sjtulyx.github.io/Project/IROS2022.html" target="_blank">Guang-Zhong Yang</a><sup>1</sup>&#160;&#160; 
 				</div>
 
 				<div class="affiliations">
-					<sup>1</sup><a href="http://www.mpi-inf.mpg.de/" target="_blank">Max Planck Institute for Informatics</a>, <a href="https://saarland-informatics-campus.de/" target="_blank">Saarland Informatics Campus</a> &#160;&#160;
-                    <sup>2</sup><a href="https://research.fb.com/category/augmented-reality-virtual-reality/" target="_blank">facebook Reality Labs</a>
+					<sup>1</sup>Institute of Medical Robotics, Shanghai Jiao Tong University &#160;&#160;
+                    <sup>2</sup>Hamlyn Center, Imperial College London, UK
 				</div>
 
-				 <div class="venue"> CVPR</div> 
+				 <div class="venue"> IROS</div> 
 				
 			</div>
 			<div class="section teaser">
 				<div class="container">
-                <video id="vid" width="768" height="432" controls><source src="data/camera_ready.mp4" type="video/mp4"></video>
+                <video id="vid" width="768" height="432" controls><source src="[video]" type="video/mp4"></video>
 				</div>
 			</div>
 
 			<div class="section abstract">
 				<h2>Abstract</h2>
 				<p>
-				Egocentric 3D human pose estimation with a single fisheye camera has drawn a significant amount of attention recently. However, existing methods struggle with pose estimation from in-the-wild images, because they can only be trained on synthetic data due to the unavailability of large-scale in-the-wild egocentric datasets. Furthermore, these methods easily fail when the body parts are occluded by or interacting with the surrounding scene. 
-				To address the shortage of in-the-wild data, we collect a large-scale in-the-wild egocentric dataset called Egocentric Poses in the Wild (EgoPW). This dataset is captured by a head-mounted fisheye camera and an auxiliary external camera, which provides an additional observation of the human body from a third-person perspective during training.
-				We present a new egocentric pose estimation method, which can be trained on the new dataset with weak external supervision. 
-				Specifically, we first generate pseudo labels for the EgoPW dataset with a spatio-temporal optimization method by incorporating the external-view supervision.
-				The pseudo labels are then used to train an egocentric pose estimation network. To facilitate the network training, we propose a novel learning strategy to supervise the egocentric features with the high-quality features extracted by a pretrained external-view pose estimation model. 
-				The experiments show that our method predicts accurate 3D poses from a single in-the-wild egocentric image and outperforms the state-of-the-art methods both quantitatively and qualitatively. 
+				Egocentric vision is an emerging topic, which has demonstrated great potential in assistive healthcare scenarios, ranging from human-centric behavior analysis to personal social assistance. Within this field, due to the heterogeneity of visual perception from first-person views, egocentric pose estimation is one of the most significant prerequisites for enabling various downstream applications. However, existing methods for egocentric pose estimation mainly focus on predicting the pose represented in the camera coordinates from a single image, which ignores the latent cues in the temporal domain and results in less accuracy. In this paper, we propose Ego+X, an egocentric vision based system for 3D canonical pose estimation and human-centric social interaction characterization. Our system is composed of two head-mounted egocentric cameras, where one is faced downwards and the other looks outwards.
+                                By leveraging the global context provided by visual SLAM, we first propose \textit{Ego-Glo} for spatial-accurate and temporal-consistent egocentric 3D pose estimation in the canonical coordinate system. With the help of an egocentric camera looking outwards, we then propose \textit{Ego-Soc} by extending Ego-Glo to various social interaction tasks, e.g., object detection and human-human interaction. Quantitative and qualitative experiments have been conducted to demonstrate the effectiveness of our proposed Ego+X. 
 				</p>
 			</div>
 
@@ -101,36 +97,6 @@
 						</div>
 					</li>
 					
-					<li class="grid">
-						<div class = "griditem">
-							<a href="data/supp_mat.pdf" target="_blank" class="imageLink"><img src = "images/pdf.jpg"></a><br/>
-							Suppl. Mat.<br/>
-						</div>
-					</li>
- 
-					<li class="grid"> 
-						<div class = "griditem"> 
-						<a href="data/camera_ready.mp4" target="_blank" class="imageLink"><img src = "images/mp4.jpg"></a><br />
-						Video<br /> 
-						<br /> 
-						</div>
-					</li> 
-					
-					<li class="grid">
-						<div class = "griditem">
-							<a href="data/LICENSE.txt" target="_blank" class="imageLink"><img src = "images/txt.jpg"></a><br/>
-							Data License<br/>
-						</div>
-					</li>
-					
-					<li class="grid"> 
-						<div class = "griditem"> 
-						<a href="https://nextcloud.mpi-klsb.mpg.de/index.php/s/5yikSw26sXy3wrR" target="_blank" class="imageLink"><img src = "images/zip.jpg"></a><br/>
-						Dataset<br /> 
-						<br /> 
-						</div>
-					</li> 
-					
 				</ul>
 				</center>
 			</div> 
@@ -141,13 +107,12 @@
  
 			<div class="section list">
 				<h2>Citation</h2>
-				<p><a href="data/bibtex.bib" target="_blank">BibTeX, 1 KB</a></p>
 				<div class="section bibtex">
 				<pre>
-@article{wang2022estimating,
-  title={Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision},
-  author={Wang, Jian and Liu, Lingjie and Xu, Weipeng and Sarkar, Kripasindhu and Luvizon, Diogo and Theobalt, Christian},
-  journal={CVPR},
+@article{liu2022Ego+X,
+  title={Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization},
+  author={Liu, Yuxuan and Yang, Jianxin and Gu, Xiao and Guo, Yao and Yang, Guang-Zhong},
+  journal={IROS},
   year={2022}
 }
 				</div>
@@ -157,16 +122,10 @@
 			<div class="section acknowledgments">
 				<h2>Acknowledgments</h2>
 				<p>
-				Jian Wang, Kripasindhu Sarkar and Christian Theobalt have been supported by the ERC Consolidator Grant 4DReply (770784) and Lingjie Liu has been supported by Lise Meitner Postdoctoral Fellowship. We also thank Gereon Fox for his help with the narration on the supplementary video.
+				This work was supported by the Science and Technology Commission of Shanghai Municipality under Grant 20DZ2220400
 				</p>
 			</div>
 
-			<div class="section contact">
-				<h2>Contact</h2>
-				For questions, clarifications, please get in touch with:<br />
-				Jian Wang <a href='mailt&#111;&#58;jianwang&#64;mp&#105;-inf&#46;mp&#103;&#46;&#100;e'>jianwang&#64;mp&#105;-inf&#46;mp&#103;&#46;&#100;e</a>  <br />
-                Lingjie Liu <a href='mailt&#111;&#58;lliu&#64;&#109;p&#105;&#45;inf&#46;%6D&#37;&#55;0%67&#46;&#100;e'>lliu&#64;mp&#105;-inf&#46;mp&#103;&#46;&#100;e</a> 
-			</div>
 
 			<div class="section">
 				<hr class="smooth">
@@ -178,7 +137,6 @@
 					document.write(m.substring(p, 0) + ".");
 					document.writeln("</left>");
 				</script>
-				<a href="https://imprint.mpi-klsb.mpg.de/inf/vcai.mpi-inf.mpg.de/">Imprint</a>. <a href="https://data-protection.mpi-klsb.mpg.de/inf/vcai.mpi-inf.mpg.de?lang=en">Data Protection</a>.
 			</div>
 		</div>
 	</div>
