@@ -1,1 +1,1 @@
-# Click: [Lrnyux.github.io](https://Lrnyux.github.io/)
+# Click: [Lrnyux.github.io](https://lrnyux.github.io/)
