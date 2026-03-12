@@ -20,9 +20,10 @@ redirect_from:
 Yuxuan Liu is currently a Phd student in Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai China. He received the BS degree in biomedical engineering from Shanghai Jiao Tong University as well as a second major in mathematics and applied mathematics.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- *2022.09 - 2027.06*, Doctoral Student, Institute of Medical Robotics, Shanghai Jiao Tong University (supervised by Guang-Zhong Yang).
+- *2025.09 - 2026.09*, Visiting Student, School of Informatics, The University of Edinburgh (supervised by Liang Zhao).
+- *2018.09 - 2022.06*, Undergraduate, School of Biomedical Engineering, Shanghai Jiao Tong University (rank 1/72, GPA 4.02/4.30). 
 
 # 📝 Publications 
 
