@@ -25,21 +25,20 @@ Yuxuan Liu is currently a Phd student in Institute of Medical Robotics, Shanghai
 - *2025.09 - 2026.09*, Visiting Student, School of Informatics, The University of Edinburgh (supervised by Liang Zhao).
 - *2018.09 - 2022.06*, Undergraduate, School of Biomedical Engineering, Shanghai Jiao Tong University (rank 1/72, GPA 4.02/4.30). 
 
-# 📝 Publications 
+# 📝 Publications (journal paper) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. **Yuxuan Liu**, Xinyao Zhou, Yating Luo, Yunfei Luan, Musen Zhang, Yao Guo, Guang-Zhong Yang, Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation, Under Review, 2025.
+1. **Yuxuan Liu**, Xinyao Zhou, Yating Luo, Yunfei Luan, Zhennan Xiao, Yao Guo, Guang-Zhong Yang, Simultaneous Surgical Stereo Depth and Motion Estimation
+via Brightness-aware Self-supervised Learning, Under Review, 2025.
+1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, FPM-R2net: Fused Photoacoustic and Operating Microscopic Imaging with Cross-modality Representation and Registration Network, Medical Image Analysis (MedIA), 2025.
+1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Jinkai Li, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, Photoacoustics (PACS), 2024.
+1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, IEEE Transactions on Multimedia (TMM), 2024.
+1. Yunfei Luan, Yating Luo, **Yuxuan Liu**, Musen Zhang, Yujian An, Jianxin Yang, Yao Guo, Guang-Zhong Yang, Autofocusing with Three-Dimensional Tracking for Robot-Assisted Microsurgery, IEEE/ASME Transactions on Mechatronic (TMech), 2025.
+1. Linlin Liu, Bangchao Xi, Yating Luo, **Yuxuan Liu** Pengxin Huang, ..., Guang-Zhong Yang, Guangyu Qiu, Intraoperative and Spatiotemporal Mapping of Acute Inflammation Response During Neuroelectrode Implantation, Matter, 2025.
+1.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝 Publications (conference paper)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
