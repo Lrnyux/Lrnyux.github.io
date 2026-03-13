@@ -76,8 +76,8 @@ Representation, IEEE Transactions on Industrial Informatic (TII), 2024.
 - *2020&amp;2021*, Outstanding League Cadres, Shanghai Jiao Tong University
 - *2020*, Outstanding Student Leadership, Shanghai Jiao Tong University
 
-<!-- # 🛎 Academic Services
+<!-- # 🛎 Academic Services -->
 
-<!-- # 🧰 Projects
+<!-- # 🧰 Projects -->
 
 
