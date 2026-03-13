@@ -25,6 +25,10 @@ Yuxuan Liu is currently a Phd student in Institute of Medical Robotics, Shanghai
 - *2025.09 - 2026.09*, Visiting Student, School of Informatics, The University of Edinburgh (supervised by Liang Zhao).
 - *2018.09 - 2022.06*, Undergraduate, School of Biomedical Engineering, Shanghai Jiao Tong University (rank 1/72, GPA 4.02/4.30). 
 
+# 🎓 Research Interests
+Surgical Autonomy, Scene Understanding, Cross-view & Cross-modality Reconstruction, Surgical Robotics
+
+
 # 📝 Publications (journal paper) 
 
 1. **Yuxuan Liu**, Xinyao Zhou, Yating Luo, Yunfei Luan, Musen Zhang, Yao Guo, Guang-Zhong Yang, Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation, Under Review, 2025.
@@ -34,6 +38,7 @@ via Brightness-aware Self-supervised Learning, Under Review, 2025.
 1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Jinkai Li, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, Photoacoustics (PACS), 2024.
 1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, IEEE Transactions on Multimedia (TMM), 2023.
 1. Yating Luo, **Yuxuan Liu**, Yunfei Luan, Yao Guo, Guang-Zhong Yang, A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision, Under Review, 2026.
+1. Musen Zhang, **Yuxuan Liu**, Yunfei Luan, Jinkai Li, Yao Guo, Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach, Under Review, 2026.
 1. Yunfei Luan, Yating Luo, **Yuxuan Liu**, Musen Zhang, Yujian An, Jianxin Yang, Yao Guo, Guang-Zhong Yang, Autofocusing with Three-Dimensional Tracking for Robot-Assisted Microsurgery, IEEE/ASME Transactions on Mechatronic (TMech), 2025.
 1. Linlin Liu, Bangchao Xi, Yating Luo, **Yuxuan Liu**, Pengxin Huang, ..., Guang-Zhong Yang, Guangyu Qiu, Intraoperative and Spatiotemporal Mapping of Acute Inflammation Response During Neuroelectrode Implantation, Matter, 2025.
 1. Jianxin Yang, **Yuxuan Liu**, Jinkai Li, Xiao Gu, Guang-Zhong Yang, Yao Guo, PoseSDF++: Point Cloud-based 3D Human Pose Estimation via Implicit Neural
