@@ -65,11 +65,18 @@ Representation, IEEE Transactions on Industrial Informatic (TII), 2024.
 # 🎖 Honors and Awards
 - *2025*, National Scholarship for graduate student, China
 - *2023*, National Scholarship for graduate student, China
-- *2022*, Zhiyuan Honorary Scholarship for graduate student, Shanghai Jiao Tong University
-- *2022*, Outstanding Undergraduate Student, Shanghai
 - *2021*, National Scholarship for undergraduate student, China
 - *2020*, National Scholarship for undergraduate student, China
 - *2019*, National Scholarship for undergraduate student, China
+- *2022*, Zhiyuan Honorary Scholarship for graduate student, Shanghai Jiao Tong University
+- *2022*, Outstanding Undergraduate Student, Shanghai
+- *2021*, One of Ten Merit Students Model of Shanghai Jiao Tong University
+- *2019&amp;2020&amp;2021*, Lixin Tang Scholarship for undergraduate student, Shanghai Jiao Tong University
+- *2019&amp;2020*, Rank A Excellent Scholarship for undergraduate student, Shanghai Jiao Tong University
+- *2020&amp;2021*, Outstanding League Cadres, Shanghai Jiao Tong University
+- *2020*, Outstanding Student Leadership, Shanghai Jiao Tong University
+
+
 
 # 🧰 Projects
 
