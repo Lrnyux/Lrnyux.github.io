@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuxuan Liu is currently a Phd student in Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai China. He received the BS degree in biomedical engineering from Shanghai Jiao Tong University as well as a second major in mathematics and applied mathematics.
+Yuxuan Liu is currently a Phd student in Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai, China. He received the BE degree in biomedical engineering from Shanghai Jiao Tong University as well as a second major in mathematics and applied mathematics.
 
 
 # 📖 Educations
