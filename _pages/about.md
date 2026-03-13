@@ -33,9 +33,14 @@ via Brightness-aware Self-supervised Learning, Under Review, 2025.
 1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, FPM-R2net: Fused Photoacoustic and Operating Microscopic Imaging with Cross-modality Representation and Registration Network, Medical Image Analysis (MedIA), 2025.
 1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Jinkai Li, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, Photoacoustics (PACS), 2024.
 1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, IEEE Transactions on Multimedia (TMM), 2024.
+1. Yating Luo, **Yuxuan Liu**, Yunfei Luan, Yao Guo, Guang-Zhong Yang, A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision, Under Review, 2026.
 1. Yunfei Luan, Yating Luo, **Yuxuan Liu**, Musen Zhang, Yujian An, Jianxin Yang, Yao Guo, Guang-Zhong Yang, Autofocusing with Three-Dimensional Tracking for Robot-Assisted Microsurgery, IEEE/ASME Transactions on Mechatronic (TMech), 2025.
-1. Linlin Liu, Bangchao Xi, Yating Luo, **Yuxuan Liu** Pengxin Huang, ..., Guang-Zhong Yang, Guangyu Qiu, Intraoperative and Spatiotemporal Mapping of Acute Inflammation Response During Neuroelectrode Implantation, Matter, 2025.
-1.
+1. Linlin Liu, Bangchao Xi, Yating Luo, **Yuxuan Liu**, Pengxin Huang, ..., Guang-Zhong Yang, Guangyu Qiu, Intraoperative and Spatiotemporal Mapping of Acute Inflammation Response During Neuroelectrode Implantation, Matter, 2025.
+1. Jianxin Yang, **Yuxuan Liu**, Jinkai Li, Xiao Gu, Guang-Zhong Yang, Yao Guo, PoseSDF++: Point Cloud-based 3D Human Pose Estimation via Implicit Neural
+Representation, IEEE Transactions on Industrial Informatic (TII), 2024.
+1. Linlin Liu, Danhua Wang, Yating Luo, **Yuxuan Liu**, Yao Guo, Guang-Zhong Yang, Guangyu Qiu, Intraoperative assessment of microimplantation-induced acute brain inflammation with titanium oxynitride-based plasmonic biosensor, Biosensors and Bioelectronic, 2024.
+1. Yujian An, Jianxin Yang, Bingze He, **Yuxuan Liu**, Yao Guo, Guang-Zhong Yang, A Microscopic Vision-Based Robotic System For Floating Electrode Assembly, IEEE/ASME Transactions on Mechatronic (TMech), 2024.
+1. Yao Guo, Jianxin Yang, **Yuxuan Liu**, Xun Chen, Guang-Zhong Yang,Detection and assessment of Parkinson’s disease based on gait analysis: A survey, Frontiers in Aging Neuroscienc, 2022.
 
 # 📝 Publications (conference paper)
 
