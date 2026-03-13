@@ -32,7 +32,7 @@ Yuxuan Liu is currently a Phd student in Institute of Medical Robotics, Shanghai
 via Brightness-aware Self-supervised Learning, Under Review, 2025.
 1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, FPM-R2net: Fused Photoacoustic and Operating Microscopic Imaging with Cross-modality Representation and Registration Network, Medical Image Analysis (MedIA), 2025.
 1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Jinkai Li, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, Photoacoustics (PACS), 2024.
-1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, IEEE Transactions on Multimedia (TMM), 2024.
+1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, IEEE Transactions on Multimedia (TMM), 2023.
 1. Yating Luo, **Yuxuan Liu**, Yunfei Luan, Yao Guo, Guang-Zhong Yang, A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision, Under Review, 2026.
 1. Yunfei Luan, Yating Luo, **Yuxuan Liu**, Musen Zhang, Yujian An, Jianxin Yang, Yao Guo, Guang-Zhong Yang, Autofocusing with Three-Dimensional Tracking for Robot-Assisted Microsurgery, IEEE/ASME Transactions on Mechatronic (TMech), 2025.
 1. Linlin Liu, Bangchao Xi, Yating Luo, **Yuxuan Liu**, Pengxin Huang, ..., Guang-Zhong Yang, Guangyu Qiu, Intraoperative and Spatiotemporal Mapping of Acute Inflammation Response During Neuroelectrode Implantation, Matter, 2025.
@@ -40,9 +40,21 @@ via Brightness-aware Self-supervised Learning, Under Review, 2025.
 Representation, IEEE Transactions on Industrial Informatic (TII), 2024.
 1. Linlin Liu, Danhua Wang, Yating Luo, **Yuxuan Liu**, Yao Guo, Guang-Zhong Yang, Guangyu Qiu, Intraoperative assessment of microimplantation-induced acute brain inflammation with titanium oxynitride-based plasmonic biosensor, Biosensors and Bioelectronic, 2024.
 1. Yujian An, Jianxin Yang, Bingze He, **Yuxuan Liu**, Yao Guo, Guang-Zhong Yang, A Microscopic Vision-Based Robotic System For Floating Electrode Assembly, IEEE/ASME Transactions on Mechatronic (TMech), 2024.
-1. Yao Guo, Jianxin Yang, **Yuxuan Liu**, Xun Chen, Guang-Zhong Yang,Detection and assessment of Parkinson’s disease based on gait analysis: A survey, Frontiers in Aging Neuroscienc, 2022.
+1. Yao Guo, Jianxin Yang, **Yuxuan Liu**, Xun Chen, Guang-Zhong Yang,Detection and assessment of Parkinson’s disease based on gait analysis: A survey, Frontiers in Aging Neuroscience, 2022.
 
 # 📝 Publications (conference paper)
+
+1. **Yuxuan Liu**, Yuyang Zhuge, Xinyao Zhou, Yating Luo, Yunfei Luan, Yao Guo, Guang-Zhong Yang, Cross-view Exocentric and Egocentric Fusion for Robust Microsurgical Anastomosis Understanding, 2026 IEEE International Conference on Robotics and Automation (ICRA), 2026.
+1. **Yuxuan Liu**, Yating Luo, Yunfei Luan, Xinyao Zhou, Jianxin Yang, Yao Guo, Guang-Zhong Yang, Towards Accurate Brain Electrode Implantation via Cross-modality Fusion of White-light and Photoacoustic Microscopy, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+1. Xinyao Zhou†, **Yuxuan Liu†**, Musen Zhang,Jinkai Li, Yao Guo, Guang-Zhong Yang, Deep Coarse-to-Fine Networks for Robust Segmentation and Pose Estimation of Surgical Suturing Threads, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+1. Yating Luo†, **Yuxuan Liu†**, Jiasheng Zhou, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, Fast Photoacoustic Microscopy with Robot Controlled Microtrajectory Optimization, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024.
+1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, EgoHMR: Egocentric Human Mesh Recovery via Hierarchical Latent Diffusion Model, 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023.
+1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization, 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
+1. Yunfei Luan, **Yuxuan Liu**, Yuyang Zhuge, Yating Luo, Yao Guo, Guang-Zhong Yang, One-Shot Autofocus via User-Adaptive Gaze Control for Robot-Assisted Microsurgery, 2026 IEEE International Conference on Robotics and Automation (ICRA), 2026.
+1. Jinkai Li, Jianxin Yang, **Yuxuan Liu**, Guang-Zhong Yang, Yao Guo, EasyGaze3D: Towards Effective and Flexible 3D Gaze Estimation from a Single RGB Camera, 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
+1. Xiao Gu, Yao Guo, Zeju Li, Jianing Qiu, Qi Dou, **Yuxuan Liu**, Benny Lo, Guang-Zhong Yang, Tackling long-tailed category distribution under domain shifts, 2022 European Conference on Computer Vision (ECCV), 2022.
+1. Jianxin Yang, **Yuxuan Liu**, Xiao Gu Guang-Zhong Yang, Yao Guo, PoseSDF: Simultaneous 3D Human Shape Reconstruction and Gait Pose Estimation Using Signed Distance Functions, 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022.
+
 
 
 # 🎖 Honors and Awards
