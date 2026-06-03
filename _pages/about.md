@@ -33,10 +33,10 @@ Surgical Autonomy, Scene Understanding, Cross-view & Cross-modality Reconstructi
 
 1. **Yuxuan Liu**, Xinyao Zhou, Yating Luo, Yunfei Luan, Musen Zhang, Yao Guo, Guang-Zhong Yang, Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation, Under Review, 2025.
 1. **Yuxuan Liu**, Xinyao Zhou, Yating Luo, Yunfei Luan, Zhennan Xiao, Yao Guo, Guang-Zhong Yang, Simultaneous Surgical Stereo Depth and Motion Estimation
-via Brightness-aware Self-supervised Learning, Pattern Recognition (PR), 2025.
-1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, FPM-R2net: Fused Photoacoustic and Operating Microscopic Imaging with Cross-modality Representation and Registration Network, Medical Image Analysis (MedIA), 2025.
-1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Jinkai Li, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, Photoacoustics (PACS), 2024.
-1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, Egofish3d: Egocentric 3d pose estimation from a fisheye camera via self-supervised learning, IEEE Transactions on Multimedia (TMM), 2023.
+via Brightness-aware Self-supervised Learning, Pattern Recognition (PR), 2025. (中科院一区Top, IF=7.6)
+1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, FPM-R2net: Fused Photoacoustic and Operating Microscopic Imaging with Cross-modality Representation and Registration Network, Medical Image Analysis (MedIA), 2025. (中科院一区Top, IF=11.7)
+1. **Yuxuan Liu**, Jiasheng Zhou, Yating Luo, Jinkai Li, Sung-Liang Chen, Yao Guo, Guang-Zhong Yang, UPAMNet: A Unified Network with Deep Knowledge Priors for Photoacoustic Microscopy, Photoacoustics (PACS), 2024. (中科院一区Top, IF=6.8)
+1. **Yuxuan Liu**, Jianxin Yang, Xiao Gu, Yao Guo, Guang-Zhong Yang, Egofish3d: Egocentric 3d pose estimation from a fisheye camera via self-supervised learning, IEEE Transactions on Multimedia (TMM), 2023. (中科院一区Top, IF=9.7)
 1. Yating Luo, **Yuxuan Liu**, Yunfei Luan, Yao Guo, Guang-Zhong Yang, A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision, IEEE/ASME Transactions on Mechatronic (TMech), 2026.
 1. Musen Zhang, **Yuxuan Liu**, Yunfei Luan, Jinkai Li, Yao Guo, Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach, Under Review, 2026.
 1. Yunfei Luan, Yating Luo, **Yuxuan Liu**, Musen Zhang, Yujian An, Jianxin Yang, Yao Guo, Guang-Zhong Yang, Autofocusing with Three-Dimensional Tracking for Robot-Assisted Microsurgery, IEEE/ASME Transactions on Mechatronic (TMech), 2025.
